@@ -65,3 +65,15 @@ git clone https://github.com/csk-sir/VaultIN-site.git
 cd vaultin-site
 npm install
 npm run dev
+
+## 📚 License
+This project is currently closed-source for core app logic.
+Frontend website and marketing materials are MIT licensed.
+
+## 🙌 Contributions
+We’re open to community feedback, design upgrades, SEO help, or blog suggestions.
+Ping me or open an issue.
+
+## 👋 Connect
+Made with ❤️ by @csk-sir
+Visit: vaultin.app
